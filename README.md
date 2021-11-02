@@ -1,6 +1,10 @@
 <div align="center">
 <img src="https://i.ibb.co/SR2DF28/YT-FAREL-BOTZ.jpg" alt="Yuzzu" width="300" />
 
+## `Deploy`
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fbotzz/rawr/)
+
+
 # FAREL BOTZ
 
 >
